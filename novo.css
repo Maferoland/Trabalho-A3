@@ -1,0 +1,23 @@
+    h1{
+        display: flex;
+    justify-content: center;
+}
+
+main {
+        display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+form div {
+    padding: 10px;
+    text-align: end;
+}
+
+
+.botao {
+        margin-top: 10px;
+        position: relative;
+        left: 60px;
+      
+}
